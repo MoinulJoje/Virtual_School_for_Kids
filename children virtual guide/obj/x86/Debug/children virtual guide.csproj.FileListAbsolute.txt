@@ -1,0 +1,312 @@
+H:\C# apps\children virtual guide\children virtual guide\bin\Debug\children virtual guide.exe
+H:\C# apps\children virtual guide\children virtual guide\bin\Debug\children virtual guide.pdb
+H:\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.Form1.resources
+H:\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.Properties.Resources.resources
+H:\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.csproj.GenerateResource.Cache
+H:\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.exe
+H:\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.pdb
+H:\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.welcomeForm2.resources
+H:\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.csprojResolveAssemblyReference.cache
+H:\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.banglaForm2.resources
+H:\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.english.resources
+H:\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.Handwriting.resources
+H:\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.math.resources
+G:\documents\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.exe
+G:\documents\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.pdb
+G:\documents\C# apps\children virtual guide\children virtual guide\bin\Debug\children virtual guide.exe
+G:\documents\C# apps\children virtual guide\children virtual guide\bin\Debug\children virtual guide.pdb
+G:\documents\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.csprojResolveAssemblyReference.cache
+G:\documents\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.banglaForm2.resources
+G:\documents\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.english.resources
+G:\documents\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.Form1.resources
+G:\documents\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.Handwriting.resources
+G:\documents\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.math.resources
+G:\documents\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.Properties.Resources.resources
+G:\documents\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.welcomeForm2.resources
+G:\documents\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.csproj.GenerateResource.Cache
+G:\documents\C# apps\children virtual guide\children virtual guide\bin\Debug\Interop.ShockwaveFlashObjects.dll
+G:\documents\C# apps\children virtual guide\children virtual guide\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\documents\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+G:\documents\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\documents\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.csproj.ResolveComReference.cache
+G:\documents\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.Form2.resources
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.csproj.ResolveComReference.cache
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.exe
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.pdb
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\bin\Debug\children virtual guide.exe
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\bin\Debug\children virtual guide.pdb
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\bin\Debug\Interop.ShockwaveFlashObjects.dll
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.csprojResolveAssemblyReference.cache
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.banglaForm2.resources
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.bngcons.resources
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.english.resources
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.Form1.resources
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.bngvowel.resources
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.Handwriting.resources
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.math.resources
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.Properties.Resources.resources
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.welcomeForm2.resources
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.csproj.GenerateResource.Cache
+G:\C# project Saving place\C# apps\children virtual guide\children virtual guide\obj\x86\Debug\children_virtual_guide.bngall.resources
+I:\children virtual guide\children virtual guide\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+I:\children virtual guide\children virtual guide\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+I:\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.csproj.ResolveComReference.cache
+I:\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.exe
+I:\children virtual guide\children virtual guide\obj\x86\Debug\children virtual guide.pdb
+F:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+F:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csproj.ResolveComReference.cache
+F:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.exe
+F:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.pdb
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csproj.ResolveComReference.cache
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.exe
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.pdb
+G:\children virtual guide Main Copy\children virtual guide\bin\Debug\children virtual guide.exe
+G:\children virtual guide Main Copy\children virtual guide\bin\Debug\children virtual guide.pdb
+G:\children virtual guide Main Copy\children virtual guide\bin\Debug\Interop.ShockwaveFlashObjects.dll
+G:\children virtual guide Main Copy\children virtual guide\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.banglaForm2.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngcons.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngkar.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.english.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Form1.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngvowel.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngall.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Handwriting.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Properties.Resources.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.welcomeForm2.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_vowel.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_cons.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_all.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math_num.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.diction.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.GK.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csproj.ResolveComReference.cache
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.exe
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.pdb
+G:\pc proj\children virtual guide Main Copy\children virtual guide\bin\Debug\children virtual guide.exe
+G:\pc proj\children virtual guide Main Copy\children virtual guide\bin\Debug\children virtual guide.pdb
+G:\pc proj\children virtual guide Main Copy\children virtual guide\bin\Debug\Interop.ShockwaveFlashObjects.dll
+G:\pc proj\children virtual guide Main Copy\children virtual guide\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csprojResolveAssemblyReference.cache
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.banglaForm2.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngcons.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngkar.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.diction.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.english.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_all.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_cons.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_vowel.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Form1.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngvowel.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngall.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.GK.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Handwriting.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math_num.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Properties.Resources.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.welcomeForm2.resources
+G:\pc proj\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csproj.GenerateResource.Cache
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csproj.ResolveComReference.cache
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.exe
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.pdb
+L:\children virtual guide Main Copy\children virtual guide\bin\Debug\children virtual guide.exe
+L:\children virtual guide Main Copy\children virtual guide\bin\Debug\children virtual guide.pdb
+L:\children virtual guide Main Copy\children virtual guide\bin\Debug\Interop.ShockwaveFlashObjects.dll
+L:\children virtual guide Main Copy\children virtual guide\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csprojResolveAssemblyReference.cache
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.banglaForm2.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngcons.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngkar.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.diction.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.english.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_all.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_cons.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_vowel.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Form1.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngvowel.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngall.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.GK.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Handwriting.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math_num.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Properties.Resources.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.welcomeForm2.resources
+L:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csproj.GenerateResource.Cache
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csprojResolveAssemblyReference.cache
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csproj.GenerateResource.Cache
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bangwrite.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.engwrite.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.color.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.namta_math.resources
+G:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.clk_time.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csproj.ResolveComReference.cache
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.exe
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.pdb
+H:\children virtual guide Main Copy\children virtual guide\bin\Debug\children virtual guide.exe
+H:\children virtual guide Main Copy\children virtual guide\bin\Debug\children virtual guide.pdb
+H:\children virtual guide Main Copy\children virtual guide\bin\Debug\Interop.ShockwaveFlashObjects.dll
+H:\children virtual guide Main Copy\children virtual guide\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.banglaForm2.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bangwrite.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngcons.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngkar.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.clk_time.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.color.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.diction.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.english.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.engwrite.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_all.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_cons.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_vowel.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Form1.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngvowel.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngall.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.GK.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Handwriting.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math_num.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.namta_math.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Properties.Resources.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.welcomeForm2.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.add_sub.resources
+H:\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math_shape.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csproj.ResolveComReference.cache
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.exe
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.pdb
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.add_sub.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.banglaForm2.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bangwrite.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngcons.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngkar.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.clk_time.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.color.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.diction.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.english.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.engwrite.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_all.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_cons.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_vowel.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Form1.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngvowel.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngall.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.GK.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Handwriting.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math_num.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math_shape.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.namta_math.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Properties.Resources.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.welcomeForm2.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\bin\Debug\children virtual guide.exe
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\bin\Debug\children virtual guide.pdb
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\bin\Debug\Interop.ShockwaveFlashObjects.dll
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bng_quiz.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.color_xm.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_quiz.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math_quiz.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.quiz.resources
+G:\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.dev.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csproj.ResolveComReference.cache
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.exe
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.pdb
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\bin\Debug\children virtual guide.exe
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\bin\Debug\children virtual guide.pdb
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csprojResolveAssemblyReference.cache
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.add_sub.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.banglaForm2.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bangwrite.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngcons.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngkar.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bng_quiz.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.clk_time.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.color.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.color_xm.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.dev.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.diction.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.english.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.engwrite.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_all.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_cons.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_quiz.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_vowel.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Form1.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngvowel.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngall.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.GK.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Handwriting.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math_num.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math_quiz.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math_shape.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.namta_math.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Properties.Resources.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.quiz.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.welcomeForm2.resources
+F:\My works\Maximizing\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csproj.GenerateResource.Cache
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csproj.ResolveComReference.cache
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.exe
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.pdb
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\bin\Debug\children virtual guide.exe
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\bin\Debug\children virtual guide.pdb
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csprojResolveAssemblyReference.cache
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.add_sub.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.banglaForm2.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bangwrite.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngcons.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngkar.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bng_quiz.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.clk_time.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.color.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.color_xm.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.dev.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.diction.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.english.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.engwrite.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_all.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_cons.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_quiz.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.eng_vowel.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Form1.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngvowel.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.bngall.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.GK.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Handwriting.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math_num.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math_quiz.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.math_shape.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.namta_math.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.Properties.Resources.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.quiz.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children_virtual_guide.welcomeForm2.resources
+C:\Users\Sakai\Desktop\children virtual guide Main Copy\children virtual guide\obj\x86\Debug\children virtual guide.csproj.GenerateResource.Cache

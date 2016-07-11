@@ -1,0 +1,533 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{92C11EF1-9D9D-496A-889E-77C88AE81F2B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>children_virtual_guide</RootNamespace>
+    <AssemblyName>children virtual guide</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="add_sub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_sub.Designer.cs">
+      <DependentUpon>add_sub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="banglaForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="banglaForm2.Designer.cs">
+      <DependentUpon>banglaForm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bangwrite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bangwrite.Designer.cs">
+      <DependentUpon>bangwrite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bngcons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bngcons.Designer.cs">
+      <DependentUpon>bngcons.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bngkar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bngkar.Designer.cs">
+      <DependentUpon>bngkar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bng_quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bng_quiz.Designer.cs">
+      <DependentUpon>bng_quiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clk_time.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clk_time.Designer.cs">
+      <DependentUpon>clk_time.cs</DependentUpon>
+    </Compile>
+    <Compile Include="color.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="color.Designer.cs">
+      <DependentUpon>color.cs</DependentUpon>
+    </Compile>
+    <Compile Include="color_xm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="color_xm.Designer.cs">
+      <DependentUpon>color_xm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dev.Designer.cs">
+      <DependentUpon>dev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="diction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diction.Designer.cs">
+      <DependentUpon>diction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="english.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="english.Designer.cs">
+      <DependentUpon>english.cs</DependentUpon>
+    </Compile>
+    <Compile Include="engwrite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="engwrite.Designer.cs">
+      <DependentUpon>engwrite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eng_all.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eng_all.Designer.cs">
+      <DependentUpon>eng_all.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eng_cons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eng_cons.Designer.cs">
+      <DependentUpon>eng_cons.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eng_quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eng_quiz.Designer.cs">
+      <DependentUpon>eng_quiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eng_vowel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eng_vowel.Designer.cs">
+      <DependentUpon>eng_vowel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bngvowel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bngvowel.Designer.cs">
+      <DependentUpon>bngvowel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bngall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bngall.Designer.cs">
+      <DependentUpon>bngall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GK.Designer.cs">
+      <DependentUpon>GK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Handwriting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Handwriting.Designer.cs">
+      <DependentUpon>Handwriting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="math.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="math.Designer.cs">
+      <DependentUpon>math.cs</DependentUpon>
+    </Compile>
+    <Compile Include="math_num.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="math_num.Designer.cs">
+      <DependentUpon>math_num.cs</DependentUpon>
+    </Compile>
+    <Compile Include="math_quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="math_quiz.Designer.cs">
+      <DependentUpon>math_quiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="math_shape.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="math_shape.Designer.cs">
+      <DependentUpon>math_shape.cs</DependentUpon>
+    </Compile>
+    <Compile Include="namta_math.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="namta_math.Designer.cs">
+      <DependentUpon>namta_math.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quiz.Designer.cs">
+      <DependentUpon>quiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="welcomeForm2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="welcomeForm2.Designer.cs">
+      <DependentUpon>welcomeForm2.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="add_sub.resx">
+      <DependentUpon>add_sub.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="banglaForm2.resx">
+      <DependentUpon>banglaForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bangwrite.resx">
+      <DependentUpon>bangwrite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bngcons.resx">
+      <DependentUpon>bngcons.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bngkar.resx">
+      <DependentUpon>bngkar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bng_quiz.resx">
+      <DependentUpon>bng_quiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clk_time.resx">
+      <DependentUpon>clk_time.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="color.resx">
+      <DependentUpon>color.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="color_xm.resx">
+      <DependentUpon>color_xm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dev.resx">
+      <DependentUpon>dev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diction.resx">
+      <DependentUpon>diction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="english.resx">
+      <DependentUpon>english.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="engwrite.resx">
+      <DependentUpon>engwrite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eng_all.resx">
+      <DependentUpon>eng_all.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eng_cons.resx">
+      <DependentUpon>eng_cons.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eng_quiz.resx">
+      <DependentUpon>eng_quiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eng_vowel.resx">
+      <DependentUpon>eng_vowel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bngvowel.resx">
+      <DependentUpon>bngvowel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bngall.resx">
+      <DependentUpon>bngall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GK.resx">
+      <DependentUpon>GK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Handwriting.resx">
+      <DependentUpon>Handwriting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="math.resx">
+      <DependentUpon>math.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="math_num.resx">
+      <DependentUpon>math_num.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="math_quiz.resx">
+      <DependentUpon>math_quiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="math_shape.resx">
+      <DependentUpon>math_shape.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="namta_math.resx">
+      <DependentUpon>namta_math.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="quiz.resx">
+      <DependentUpon>quiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welcomeForm2.resx">
+      <DependentUpon>welcomeForm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\read.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\child-writing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed %281%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slate1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slate2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bak.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bak1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bigstock_Education_Books_-_English_3526037.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interrogation-icon-10882244.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\canstock9709471.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\childwritingscifi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5223add409080-Untitled-7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5223add409080-Untitled-71.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5223add409080-Untitled-72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5223add409080-Untitled-73.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_640_91350.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_640_913501.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_640_913502.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moinul.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vowel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vowel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BCD_JPG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cons.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cons1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\all.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kids-planet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kids-planet1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\final number.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\namta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sum sub mul div.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11954453171000517612jean_victor_balin_arrow_blue_up.svg.hi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1195445240416622736jean_victor_balin_arrow_blue_down.svg.med.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\audio-symbol-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\color-wheel-dodecagon-md.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quiz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1 %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shapes.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shapes1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shapes2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10548113_791153350904915_4936284965393613071_o.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bitmap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Moinul 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture2.JPG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
